@@ -13,7 +13,7 @@ public class Main {
     private static void initDatabase() {
         String jdbcUrl = "jdbc:mysql://localhost:3306/?useSSL=false&serverTimezone=UTC";
         String user = "root";
-        String pass = "root_password"; // change accordingly
+        String pass = "Gowtham@2929"; // change accordingly
         String dbName = "authsystem";
 
         try (Connection conn = DriverManager.getConnection(jdbcUrl, user, pass);

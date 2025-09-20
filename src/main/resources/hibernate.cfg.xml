@@ -8,7 +8,7 @@
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
         <property name="connection.url">jdbc:mysql://localhost:3306/authsystem?useSSL=false&amp;serverTimezone=UTC</property>
         <property name="connection.username">root</property>
-        <property name="connection.password">root_password</property>
+        <property name="connection.password">Gowtham@2929</property>
 
         <!-- SQL dialect -->
         <property name="dialect">org.hibernate.dialect.MySQL8Dialect</property>
